@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bradley Owens
 - 👀 I’m interested in expanding my knowledge on front and back end projects
-- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on group projects to add to my portfolio
 - 📫 How to reach me bradowens17@hotmail.com
 
